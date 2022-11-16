@@ -45,3 +45,13 @@ app.*.map.json
 
 assets
 .gitignore
+.metadata
+analysis_options.yaml
+pubspec.lock
+.dart_tool
+.vscode
+linux
+macos
+windows
+/web
+/test
